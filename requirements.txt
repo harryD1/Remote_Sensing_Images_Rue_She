@@ -1,4 +1,6 @@
-keras-preprocessing
+python==3.6.12
+tensorflow==2.4.0
+keras-preprocessing==1.1.2
 keras-models
 numpy
 pillow
